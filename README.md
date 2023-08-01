@@ -11,12 +11,9 @@ Este repositorio tiene el objetivo de ser una guía introductoria al procesamien
         2. Base de datos.
     2. Características de las bioseñales.
 3. Preprocesamiento de señales.
-    1. Transformada de Fourier.
-    2. Tipos de filtros digitales.
-        1. IIR.
-        2. FIR.
-    3. Diseño de filtros digitales.
-4. Extracción de características de bioseñales:
+    1. [Transformada de Fourier.](./3_prepocesamiento/1_transformada_fourier.ipynb)
+    2. [Introducción a filtros digitales.](./3_prepocesamiento/2_filtros_digitales.ipynb)
+4. Extracción de característas de bioseñales:
     1. Electrocardiograma (ECG).
     2. Electromiograma (EMG).
     3. Electroencefalograma (EEG).
