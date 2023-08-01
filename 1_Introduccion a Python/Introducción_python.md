@@ -10,7 +10,7 @@ Algunas de las funciones y características clave de Python son:
 
 - Versátil: Python es un lenguaje versátil que se puede usar para una amplia gama de aplicaciones, incluido el desarrollo web, la computación científica, el análisis de datos, la inteligencia artificial y más.
 
-- Escritura dinámica: en Python, no es necesario declarar las variables con un tipo de datos específico, y el tipo de una variable puede cambiar en tiempo de ejecución. Esto facilita la escritura de código flexible y dinámico.
+- Tipado dinámico: en Python, no es necesario declarar las variables con un tipo de datos específico, y el tipo de una variable puede cambiar en tiempo de ejecución. Esto facilita la escritura de código flexible y dinámico.
 
 - Interpretado: Python es un lenguaje interpretado, lo que significa que el código se ejecuta línea por línea, en lugar de compilarse en código de máquina antes de la ejecución. Esto hace que sea más fácil probar y depurar el código.
 

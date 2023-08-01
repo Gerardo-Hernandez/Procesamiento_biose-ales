@@ -5,6 +5,8 @@ Un entorno de desarrollo integrado (IDE) es una aplicación de software que prop
 
 ![Descripción de la imagen](/figures/pycharm.png)
 ![Descripción de la imagen](/figures/pycharm_2.jpg)
+
+
 PyCharm: PyCharm es un IDE profesional para el desarrollo de Python. Tiene una gran cantidad de características, que incluyen:
 - Editor de código inteligente.
 - Depurador integrado.
@@ -17,25 +19,27 @@ PyCharm: PyCharm es un IDE profesional para el desarrollo de Python. Tiene una g
 - Integración con herramientas externas.
 - Soporte multiplataforma.
 
-Está disponible tanto en una edición comunitaria gratuita como en una edición profesional de paga.
+Está disponible tanto en una edición gratuita como en una edición profesional de paga.
 
 
 ![Descripción de la imagen](/figures/vsc.png)
 ![Descripción de la imagen](/figures/vsc_2.png)
-Visual Studio Code: Visual Studio Code es un popular editor de código de código abierto que admite varios lenguajes de programación, incluido Python. Tiene una gran cantidad de extensiones disponibles.
+
+Visual Studio Code: Visual Studio Code es un popular IDE de código abierto que admite varios lenguajes de programación, incluido Python. Tiene una gran cantidad de extensiones disponibles.
 
 - Editor de código ligero y altamente personalizable.
 - Amplia gama de extensiones para ampliar su funcionalidad.
 - Depuración integrada.
 - Control de versiones con Git.
 - Terminal integrada.
-- Finalización de código y sugerencias inteligentes.
+- Autocompletado de código y sugerencias inteligentes.
 - Snippets personalizados.
 - Vista previa en vivo de archivos HTML, Markdown, etc.
 - Integración con entornos virtuales de Python.
 - Soporte multiplataforma.
 
 ![Descripción de la imagen](/figures/spyder.png)
+
 Spyder: Spyder es un IDE científico para Python que está diseñado para su uso en informática científica, análisis de datos e ingeniería. Tiene características como una consola interactiva, un explorador de variables y documentación integrada.
 
 - Editor de código con resaltado de sintaxis.
@@ -51,6 +55,7 @@ Estos son algunos de los IDE populares para el desarrollo de Python, y la elecci
 
 # ANACONDA
 ![Descripción de la imagen](/figures/Anaconda.Starting_page.png)
+
 Anaconda es una distribución del lenguaje de programación Python, que incluye una gran cantidad de:
 - bibliotecas
 - herramientas
@@ -66,11 +71,11 @@ Algunas de las características y beneficios clave de Anaconda incluyen:
 
 4. Multiplataforma: Anaconda está disponible para Windows, MacOS y Linux, lo que la convierte en una solución multiplataforma.
 
-5. Entorno de desarrollo integrado (IDE): Anaconda incluye** Spyder** IDE, que es un IDE especializado para computación científica y análisis de datos.
+5. Entorno de desarrollo integrado (IDE): Anaconda incluye **Spyder** IDE, que es un IDE especializado para computación científica y análisis de datos.
 
 6. Fácil de usar: Anaconda proporciona una interfaz fácil de usar para administrar paquetes, bibliotecas y entornos, lo que facilita comenzar con Python y sus diversas bibliotecas.
 
-Anaconda es una opción popular para la ciencia de datos, el aprendizaje automático y otros proyectos de computación científica debido a su completa colección de bibliotecas y su facilidad de uso. Ya sea que sea un programador principiante o experimentado, Anaconda puede ayudarlo a comenzar con sus proyectos de Python y brindarle un entorno estable y bien respaldado para su trabajo.
+Anaconda es una opción popular para la ciencia de datos, el aprendizaje automático y otros proyectos de computación científica debido a su completa colección de bibliotecas y su facilidad de uso. Ya sea un programador principiante o experimentado, Anaconda puede ayudarlo a comenzar con sus proyectos de Python y brindarle un entorno estable y bien respaldado para su trabajo.
 
 
 # Instalar ANACONDA
