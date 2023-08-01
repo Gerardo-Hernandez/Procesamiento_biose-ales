@@ -4,26 +4,29 @@
 Este repositorio tiene el objetivo de ser una guía introductoria al procesamiento digital de bioseñales.
 
 ## Contenido
-1. Introducción a Python/MATLAB.
-2. Introducción a bioseñales.
-    1. Obtención de las señales.
-        1. Adquisición.
-        2. Base de datos.
-    2. Características de las bioseñales.
-3. Preprocesamiento de señales.
-    1. [Transformada de Fourier.](./3_prepocesamiento/1_transformada_fourier.ipynb)
-    2. [Introducción a filtros digitales.](./3_prepocesamiento/2_filtros_digitales.ipynb)
-4. Extracción de característas de bioseñales:
-    1. Electrocardiograma (ECG).
-    2. Electromiograma (EMG).
-    3. Electroencefalograma (EEG).
-    4. Onda de presión arterial (BPW).
-    5. Fonocardiográma (PCG).
-    6. Sonidos de Korotkoff.
+1. Introducción a Python
+    1. [Instalación de IDE](./1_Introducción_Python/1_Instalación_IDE.md)
+    2. [Introducción a Python](./1_Introducción_Python/2_Introducción_Python.md)
+    3. [Sintaxis básica de Python](./1_Introducción_Python/3_Básicos_Python.ipynb)
+2. Introducción a bioseñales
+    1. [Introducción](./2_Introducción_Bioseñales/1_Introducción_Bioseñales.ipynb)
+    2. [Obtención de las señales](./2_Introducción_Bioseñales/2_Obtención_Señales.ipynb)
+    3. [Características de las bioseñales](./2_Introducción_Bioseñales/3_Características_Bioseñales.ipynb)
+3. Preprocesamiento de señales
+    1. [Transformada de Fourier.](./3_Prepocesamiento_Señales/1_Transformada_Fourier.ipynb)
+    2. [Introducción a filtros digitales.](./3_Prepocesamiento_Señales/2_Filtros_Digitales.ipynb)
+4. Extracción de característas de bioseñales
+    1. [Electrocardiograma (ECG)](./4_Extracción_Caracteristicas/1_ECG.ipynb)
+    2. [Electromiograma (EMG)](./4_Extracción_Caracteristicas/2_EMG.ipynb)
+    3. [Electroencefalograma (EEG)](./4_Extracción_Caracteristicas/3_EEG.ipynb)
+    4. [Onda de presión arterial (BPW)](./4_Extracción_Caracteristicas/4_BPW.ipynb)
+    5. [Fonocardiográma (PCG)](./4_Extracción_Caracteristicas/5_PCG.ipynb)
+    6. [Sonidos de Korotkoff](./4_Extracción_Caracteristicas/6_KOF.ipynb)
 5. Técnicas de Inteligencia Artificial para procesamiento de bioseñales
 6. (Extra) Procesamiento de imágenes.
-    1. Transformada de Fourier en 2D.
-    2. Filtros digitales en 2D.
+    1. [Transformada de Fourier en 2D](./6_Procesamiento_Imágenes/1_Transformada_Fourier_2D.md)
+    2. [Filtros digitales en 2D](./6_Procesamiento_Imágenes/2_Filtros_Digitales_2D.ipynb)
+    3. [Filtro notch 2D](./6_Procesamiento_Imágenes/3_Filtro_Notch.ipynb)
 
 ## Autores
 _Todos los autores contribuyeron de igual forma al desarrollo de este proyecto._
