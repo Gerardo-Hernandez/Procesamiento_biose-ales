@@ -16,12 +16,12 @@ Este repositorio tiene el objetivo de ser una guía introductoria al procesamien
     1. [Transformada de Fourier.](./3_Prepocesamiento_Señales/1_Transformada_Fourier.ipynb)
     2. [Introducción a filtros digitales.](./3_Prepocesamiento_Señales/2_Filtros_Digitales.ipynb)
 4. Extracción de característas de bioseñales
-    1. [Electrocardiograma (ECG)](./4_Extracción_Caracteristicas/1_ECG.ipynb)
-    2. [Electromiograma (EMG)](./4_Extracción_Caracteristicas/2_EMG.ipynb)
-    3. [Electroencefalograma (EEG)](./4_Extracción_Caracteristicas/3_EEG.ipynb)
-    4. [Onda de presión arterial (BPW)](./4_Extracción_Caracteristicas/4_BPW.ipynb)
-    5. [Fonocardiográma (PCG)](./4_Extracción_Caracteristicas/5_PCG.ipynb)
-    6. [Sonidos de Korotkoff](./4_Extracción_Caracteristicas/6_KOF.ipynb)
+    1. [Electromiograma (EMG)](./4_Extracción_Caracteristicas/1_EMG.ipynb)
+    2. [Electrocardiograma (ECG)](./4_Extracción_Caracteristicas/2_ECG.ipynb)
+    3. [Onda de presión arterial (BPW)](./4_Extracción_Caracteristicas/3_BPW.ipynb)
+    4. [Fonocardiográma (PCG)](./4_Extracción_Caracteristicas/4_PCG.ipynb)
+    5. [Sonidos de Korotkoff](./4_Extracción_Caracteristicas/5_KOF.ipynb)
+    6. [Electroencefalograma (EEG)](./4_Extracción_Caracteristicas/6_EEG.ipynb)
 5. Técnicas de Inteligencia Artificial para procesamiento de bioseñales
 6. (Extra) Procesamiento de imágenes.
     1. [Transformada de Fourier en 2D](./6_Procesamiento_Imágenes/1_Transformada_Fourier_2D.md)
